@@ -3,7 +3,7 @@
    
 	define('DB_SERVER', localhost);
 	define('DB_USERNAME', id17817604_localhost);
-	define('DB_PASSWORD', Bijjamfall97);
+	define('DB_PASSWORD', passer);
 	define('DB_NAME', id17817604_myspace);
 
 	$conn = mysql_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
