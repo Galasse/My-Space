@@ -12,9 +12,9 @@ class DataBaseConfig
     {
 
         $this->servername = 'localhost';
-        $this->username = 'root';
-        $this->password = '';
-        $this->databasename = 'loginregister';
+        $this->username = 'id17817604_localhost';
+        $this->password = 'passer';
+        $this->databasename = 'id17817604_myspace';
 
     }
 }
